@@ -1,0 +1,6 @@
+projectKey=Student_class
+serverUrl=http://localhost:9999
+serverVersion=25.12.0.117093
+dashboardUrl=http://localhost:9999/dashboard?id=Student_class
+ceTaskId=5417d22f-b1cb-44e3-9bda-1e20475e36df
+ceTaskUrl=http://localhost:9999/api/ce/task?id=5417d22f-b1cb-44e3-9bda-1e20475e36df
